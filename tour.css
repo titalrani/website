@@ -1,0 +1,19 @@
+
+body{
+    background-image: url(titali.jpg);
+}
+span{
+    margin: top 30px;
+    min-height: 400px;
+    color: black;
+    margin: right 60px;
+    float: right;
+}
+p{
+    color: black;
+}
+h1{
+    text-align: center;
+    background-color:darkred ;
+    border-radius: 30px;
+}
